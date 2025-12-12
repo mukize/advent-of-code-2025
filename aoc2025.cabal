@@ -19,3 +19,7 @@ executable day02
     import:           shared
     main-is:          Day02.hs
     build-depends:    split
+
+executable day03
+    import:           shared
+    main-is:          Day03.hs
