@@ -32,3 +32,8 @@ executable day05
     import:           shared
     main-is:          Day05.hs
     build-depends:    split
+
+executable day06
+    import:           shared
+    main-is:          Day06.hs
+    build-depends:    pretty-show
